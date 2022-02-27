@@ -1,0 +1,172 @@
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME= "xLumen.cc"
+ORG_URL= "https://xlumen.cc"
+ORG_LOGO= "https://xlumen.cc/.well-known/xlumencc.png"
+ORG_PHYSICAL_ADDRESS= "Earth"
+ORG_DESCRIPTION= "We are here to serve Stellar Lumens Holder"
+ORG_KEYBASE= "soon"
+ORG_GITHUB= "soon"
+ORG_OFFICIAL_EMAIL= "xlumen.cc@protonmail.com"
+[[CURRENCIES]]
+code= "LVPN"
+name= "LumenVPN"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "NYCS"
+name= "LumenVPN New York City Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz New York City Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "AMSS"
+name= "LumenVPN Amsterdam Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Amsterdam Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "SGPS"
+name= "LumenVPN Singapore Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Singapore Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "LONS"
+name= "LumenVPN London Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz London Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "FRAS"
+name= "LumenVPN Frankfurt Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Frankfurt Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "TORS"
+name= "LumenVPN Toronto Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Toronto Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "SAOS"
+name= "LumenVPN Sao Paolo Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Sao Paolo Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "MEXS"
+name= "LumenVPN Mexico City Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Mexico City Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "STOS"
+name= "LumenVPN Stockholm Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Stockholm Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "MLBS"
+name= "LumenVPN Melbourne Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Melbourne Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "CCGS"
+name= "LumenVPN Chicago Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Chicago Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "DLSS"
+name= "LumenVPN Dallas Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Dallas Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "STLS"
+name= "LumenVPN Seattle Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Seattle Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "LAXS"
+name= "LumenVPN Los Angeles Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Los Angeles Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "ATLS"
+name= "LumenVPN Atlanta Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Atlanta Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "SYDS"
+name= "LumenVPN Sydney Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Sydney Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "PARS"
+name= "LumenVPN Paris Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Paris Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "TKYS"
+name= "LumenVPN Tokyo Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Tokyo Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "WAWS"
+name= "LumenVPN Warsaw Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Warsaw Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "MADS"
+name= "LumenVPN Madrid Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Madrid Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "SELS"
+name= "LumenVPN Seoul Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Seoul Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
+
+[[CURRENCIES]]
+code= "MMIS"
+name= "LumenVPN Miami Server"
+issuer= "GCEF5BAK4YE27WMZ63NKRPRKSOQ6JA7W24YRYNHG2PHH2ICHIW5ALVPN"
+desc= "Funding and Payment Token for LumenVPN.xyz Miami Server"
+image= "https://lumenvpn.xyz/.well-known/lumenvpn.png"
